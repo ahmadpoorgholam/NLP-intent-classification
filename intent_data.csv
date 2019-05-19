@@ -1,0 +1,994 @@
+- Bakabileceğim bazı dersler var mı?	ask_faq_tutorials
+- dersleriniz var mı	ask_faq_tutorials
+- ciftci_bot'un nasıl kullanılacağı hakkında bir eğiticiye ihtiyacım var	ask_faq_tutorials
+- ciftci_bot eğitimi	ask_faq_tutorials
+- bana öğretici gösterebilir misin	ask_faq_tutorials
+- Bir öğretici takip etmek istiyorum	ask_faq_tutorials
+- izleyebileceğim bir ders var mı	ask_faq_tutorials
+- Ben bir öğretici arıyorum	ask_faq_tutorials
+- takip edebileceğim bir ders var mı	ask_faq_tutorials
+- Ben bir eğitimci arıyorum	ask_faq_tutorials
+- ciftci_bot hakkında bir eğitim istiyorum	ask_faq_tutorials
+- bir ciftci_bot eğitimine ihtiyacım var	ask_faq_tutorials
+- lütfen bana bir eğitim göster	ask_faq_tutorials
+- Yaşın kaç?	ask_howold
+- kaç yaşında?	ask_howold
+- kaç yaşındasın?	ask_howold
+- Yaşın kaç?	ask_howold
+- sen ne zaman doğdun?	ask_howold
+- doğum günün ne zaman?	ask_howold
+- doğum günün ne zaman?	ask_howold
+- kaç yaşındasın?	ask_howold
+- kaç yaşında olduğunu biliyor musun?	ask_howold
+- yaşınız kaç?	ask_howold
+- hangi yıl doğdun?	ask_howold
+- bana yaşını söyleyebilir misin?	ask_howold
+- Yaşınız nedir?	ask_howold
+- Doğum tarihiniz nedir?	ask_howold
+- Bir sonraki doğum gününde kaç yaşında olacaksın?	ask_howold
+- Bir sonraki sene kaç yaşında olacaksın?	ask_howold
+- Doğum gününü ne zaman kutlayacaksın?	ask_howold
+- Son doğum gününde kaç yaşındaydın?	ask_howold
+- Son doğum günü pastanda kaç tane mum vardı?	ask_howold
+- Sizinle aynı yaşta arkadaşlarınız var mı, eğer öyleyse, kaç yaşındalar?	ask_howold
+- Bana gününü, ayını ve doğum yılını söyle	ask_howold
+- Yaşın kaç?	ask_howold
+- ve kaç yaşındasın?	ask_howold
+- doğum günün ne?	ask_howold
+- son doğum gününü kutlarken kaç yaşındaydın?	ask_howold
+- son doğum gününü kutlarken kaç yaşındaydın?	ask_howold
+- Bana yaşını söyle?	ask_howold
+- yaşına ne dersin	ask_howold
+- son doğum gününde kaç yaşındaydın?	ask_howold
+- Kaç yaşındasın	ask_howold
+- bu yıl kaç yaşında olacaksın?	ask_howold
+- Yaşınız nedir?	ask_howold
+- Hangi yıl doğdun?	ask_howold
+- Bana yaşını söyle	ask_howold
+- Ne zamandır buradasın?	ask_howold
+- Ne zamandır yaşıyorsun?	ask_howold
+- Son doğum gününde kaç yaşındaydın?	ask_howold
+- Bir sonraki doğum gününde yaşın kaç olacak?	ask_howold
+- Kaç yıldır yaşıyorsun?	ask_howold
+- Ne zamandır dünyayı işgal ettin?	ask_howold
+- Sen gerçek bir bot musun?	ask_isbot
+- bot musun	ask_isbot
+- Sen gerçek misin	ask_isbot
+- gerçekten bir bot musun	ask_isbot
+- sen robot musun	ask_isbot
+- Siz bir ciftci_bot bot musunuz?	ask_isbot
+- Nesin sen, bot mu?	ask_isbot
+- söyle bana, sen bot musun?	ask_isbot
+- Sen bir Skynet misin?	ask_isbot
+- sen chatbot musun	ask_isbot
+- Ai misin	ask_isbot
+- Sen yapay zekâ mısın?	ask_isbot
+- yapay mısın	ask_isbot
+- galiba sen bir chatbotsun	ask_isbot
+- sen bir robotsun	ask_isbot
+- sen chatbotsun	ask_isbot
+- bot musun	ask_isbot
+- sen bir botsun	ask_isbot
+- Sen bot musun?	ask_isbot
+- Merhaba, bot musun?	ask_isbot
+- Sohbet botu musunuz?	ask_isbot
+- Siz ciftci_bot bot musunuz?	ask_isbot
+- Sen nesin ?	ask_isbot
+- çünkü sen bir botsun	ask_isbot
+- bot olduğuna emin misin?	ask_isbot
+- şu an saat kaç	ask_time
+- saat kaç ?	ask_time
+- ABD'de zaman nedir?	ask_time
+- ABD zamanı nedir?	ask_time
+- ABD zamanı nedir?	ask_time
+- saat kaç	ask_time
+- Bana zaman verebilir misin?	ask_time
+- Zaman	ask_time
+- Zamanı biliyor musun	ask_time
+- Şu an saat kaç?	ask_time
+- Sydney’de saat kaç?	ask_time
+- saat kaç 	ask_time
+- ABD'de saat kaç	ask_time
+- Saati söyleyebilir misiniz?	ask_time
+- Bana zamanı söyle.	ask_time
+- Bana saatin kaç olduğunu söyleyebilir misin?	ask_time
+- Afedersiniz saat kaç?	ask_time
+- Saat kaç biliyor musun?	ask_time
+- Bana saati söyleyebilir misiniz lütfen	ask_time
+- Bana saatin kaç olduğunu söyler misin	ask_time
+- Saat kaç biliyor musun?	ask_time
+- Şu an saat kaç?	ask_time
+- Şu an saat kaç?	ask_time
+- Zamanın var mı?	ask_time
+- Bana saatin kaç olduğunu söyleyebilir misin?	ask_time
+- Merhaba, zamana ihtiyacım var.	ask_time
+- Saatin kaç olduğunu bilmem gerek.	ask_time
+- Bana zamanı söyle.	ask_time
+- Şu an saat ve dakika nedir?	ask_time
+- benim adım ne?	ask_whatismyname
+- Bana adımı söyle.	ask_whatismyname
+- Adımı bana açıkla.	ask_whatismyname
+- Benim adım ne olabilir?	ask_whatismyname
+- adımı söyleyebilir misiniz?	ask_whatismyname
+- Bir adım var mı?	ask_whatismyname
+- Bir adım var mı? ve adım ne?	ask_whatismyname
+- Adım neydi?	ask_whatismyname
+- Adımı söyle.	ask_whatismyname
+- Adımı biliyor musun?	ask_whatismyname
+- İnsanlar bana ne diyor?	ask_whatismyname
+- Bana adımı söyleyebilir misiniz?	ask_whatismyname
+- İnsanlar bana başka ne diyor?	ask_whatismyname
+- Benim bir adım var, nedir?	ask_whatismyname
+- İsmimi söyle	ask_whatismyname
+- İsmimi bilmek istiyorum	ask_whatismyname
+- Bana adımın ne olduğunu bildir	ask_whatismyname
+- Lütfen ismimin ne olduğunu bana bildir	ask_whatismyname
+- Bana ne dendiğini söyleyebilir misiniz?	ask_whatismyname
+- İsmimin ne olduğunu bilmek istiyorum.	ask_whatismyname
+- Bana verilen isim nedir?	ask_whatismyname
+- Meslektaşlarım bana ne diyor?	ask_whatismyname
+- Mezar taşımın adı ne olurdu?	ask_whatismyname
+- İsmimin ne olduğunu biliyor musunuz?	ask_whatismyname
+- Tam adım nedir?	ask_whatismyname
+- Benim adım tam olarak nedir?	ask_whatismyname
+- nerede yaşıyorsun	ask_wherefrom
+- nerelisin?	ask_wherefrom
+- Neredesin?	ask_wherefrom
+- Nerede doğdun?	ask_wherefrom
+- Hangi şehirde doğdun?	ask_wherefrom
+- Nerede büyüdün?	ask_wherefrom
+- Hangi ülkede doğdun?	ask_wherefrom
+- Nerelisiniz?	ask_wherefrom
+- Nereden geldiğini biliyor musun?	ask_wherefrom
+- memleketin nerede?	ask_wherefrom
+- hangi ülkedensin?	ask_wherefrom
+- buralardan mısın?	ask_wherefrom
+- nerede büyüdün?	ask_wherefrom
+- Ailen nereli?	ask_wherefrom
+- nereden geldin	ask_wherefrom
+- Doğum yerin neresi	ask_wherefrom
+- Kökenin neresi?	ask_wherefrom
+- Nereden geldin?	ask_wherefrom
+- Nereden çıktın?	ask_wherefrom
+- Hangi bölgedensin?	ask_wherefrom
+- Geldiğin yerin adı ne?	ask_wherefrom
+- Ben kimim?	ask_whoami
+- Tamam ben kimim?	ask_whoami
+- Bana kim olduğumu söyle?	ask_whoami
+- Kim olduğumu biliyor musun?	ask_whoami
+- Bana kim olduğumu söyleyebilir misin?	ask_whoami
+- Kim olduğumu nasıl keşfedebilirim	ask_whoami
+- ne olduğumu söyleyebilir misin?	ask_whoami
+- Patronunu benimle paylaşabilir misin?	ask_builder
+- Sahibini tanımak istiyorum	ask_builder
+- seni tasarlayan şirketi tanımak istiyorum	ask_builder
+- Seni üreten şirketi tanımak istiyorum	ask_builder
+- seni icat eden şirketi tanımak istiyorum	ask_builder
+- seni kimin icat ettiğini bilmek istiyorum	ask_builder
+- Seni kimin icat ettiğini sorabilir miyim?	ask_builder
+- lütfen bana seni yaratan şirketi söyle	ask_builder
+- lütfen beni kimin yarattığını söyle	ask_builder
+- bana yaratıcılarınız hakkında daha fazla bilgi verin	ask_builder
+- bana kurucularınız hakkında daha fazla bilgi verin	ask_builder
+- hangi şirket seni hayata geçirdi?	ask_builder
+- seni hangi şirket yarattı?	ask_builder
+- seni hangi şirket icat etti?	ask_builder
+- Patronun kim?	ask_builder
+- Seni kim yaptı?	ask_builder
+- Seni kim yarattı?	ask_builder
+- Yaratıcın kim?	ask_builder
+- Seni kim tasarladı?	ask_builder
+- Kim için çalışıyorsun?	ask_builder
+- Seni kim üretti?	ask_builder
+- seni üretme fikri kimin?	ask_builder
+- seni yapma fikri kimde vardı?	ask_builder
+- tüm bunların arkasında kim var?	ask_builder
+- Yasal sahibin kim?	ask_builder
+- patronun kim söyle?	ask_builder
+- Programlayıcın kim?	ask_builder
+- Seni kim yaptı?	ask_builder
+- Seni kim modelledi?	ask_builder
+- Sahibin kim? 	ask_builder
+- Seni yapmayı kim düşündü?	ask_builder
+- Merhaba, nasılsın?	ask_howdoing
+- iyi misin?	ask_howdoing
+- güzel bir gün geçiriyor musun	ask_howdoing
+- İyi hissediyor musun?	ask_howdoing
+- durumun nasıl?	ask_howdoing
+- N'aber	ask_howdoing
+- Bu sabah nasılsın	ask_howdoing
+- nasıl hissediyorsun	ask_howdoing
+- bugün nasılsınız	ask_howdoing
+- Nasılsın?	ask_howdoing
+- Nasılsınız?	ask_howdoing
+- nasıl oldun	ask_howdoing
+- Nasıl gidiyor	ask_howdoing
+- akşamın nasıl	ask_howdoing
+- Günün nasıldı?	ask_howdoing
+- hayat nasıl	ask_howdoing
+- hayat sana nasil davraniyor?	ask_howdoing
+- Hayat sana nasıl davranıyor dostum?	ask_howdoing
+- günün nasıl geçiyor	ask_howdoing
+- Ben iyiyim, sen nasılsın	ask_howdoing
+- Her şey yolunda mı?	ask_howdoing
+- ne iyi	ask_howdoing
+- Ne var ne yok?	ask_howdoing
+- N'aber dostum	ask_howdoing
+- Naber	ask_howdoing
+- nasılsın?	ask_howdoing
+- İyi günler mi?	ask_howdoing
+- bugün nasılsın tatlı arkadaşım	ask_howdoing
+- Bugün hava nasıl?	ask_weather
+- Hava nasıl?	ask_weather
+- Yağmur yağacak mı?	ask_weather
+- Dışarısı nasıl?	ask_weather
+- Hava Sıcak mı soğuk mu?	ask_weather
+- Hava durumu nedir?	ask_weather
+- Bugün yağmurluğuma ihtiyacım olacak mı?	ask_weather
+- Yarın hava nasıl?	ask_weather
+- Bugün güzel bir gün mü?	ask_weather
+- Bugün sıcaklık nedir?	ask_weather
+- bugün hava kaç derece?	ask_weather
+- Hava fırtınalı mı?	ask_weather
+- Bugün hava yağışlı mı? 	ask_weather
+- Bugün hava güneşli mi?	ask_weather
+- bugün kar yağacak mı?	ask_weather
+- Yarın hava kaç derece?	ask_weather
+- Gökyüzü bugün açık olacak mı?	ask_weather
+- Güzel bir gün gibi görünüyor hey?	ask_weather
+- Bugün bir kardan adam yapacak mıyız?	ask_weather
+- Bugün hava nemli mi?	ask_weather
+- Bilmem gereken meteorolojik değişiklikler var mı?	ask_weather
+- Yarın hava nasıl?	ask_weather
+- bot dünyasında hava nasıl?	ask_weather
+- Berlin'de hava nasıl?	ask_weather
+- bulunduğun yerde hava nasıl?	ask_weather
+- yardım et	ask_whatspossible
+- yardım lütfen	ask_whatspossible
+- ne istediğimi bilmiyorum	ask_whatspossible
+- Biraz yardıma ihtiyacım var	ask_whatspossible
+- seçenekleri göster	ask_whatspossible
+- bana menüyü göster	ask_whatspossible
+- Ne yapabilirsin?	ask_whatspossible
+- bana nasıl yardımcı olabilirsin?	ask_whatspossible
+- hangi konuda iyisin?	ask_whatspossible
+- bana nasıl yardımcı olabilirsiniz?	ask_whatspossible
+- burada ne yapabilirim	ask_whatspossible
+- bu botla ne yapabilirim	ask_whatspossible
+- bu bot ne için	ask_whatspossible
+- güzel! Burada başka bir şey yapabilir miyim?	ask_whatspossible
+- bana yardım et	ask_whatspossible
+- Benimle konuş!	ask_whatspossible
+- geri gel	ask_whatspossible
+- başka ne yapabilirim	ask_whatspossible
+- başka seçenek var mı?	ask_whatspossible
+- şimdi ne yapabilirim	ask_whatspossible
+- şimdi ne olacak?	ask_whatspossible
+- Harika, yapabileceğin başka bir şey var mı, bot?	ask_whatspossible
+- Harika, yapabileceğin başka bir şey var mı?	ask_whatspossible
+- bana nasıl yardım edebilirsin?	ask_whatspossible
+- başka bir şey yapabilir misin?	ask_whatspossible
+- Sana başka bir şey yapabilir misin diye sordum	ask_whatspossible
+- başka birşey	ask_whatspossible
+- sonra ne olacak?	ask_whatspossible
+- burada başka ne yapabilirim?	ask_whatspossible
+- Bana ne yaptığınızı açıklayabilir misiniz?	ask_whatspossible
+-Bana bir cümleyle ne yaptığınızı açıklayabilir misiniz?	ask_whatspossible
+- seçenekler nedir?	ask_whatspossible
+- bu kim	ask_whoisit
+- kiminle konuşuyorum	ask_whoisit
+- adınız ne	ask_whoisit
+- kiminle görüşüyorum	ask_whoisit
+- Sen kimsin	ask_whoisit
+- İsmin nedir bot	ask_whoisit
+- adın ne	ask_whoisit
+- ne aramıştınız?	ask_whoisit
+- Kim konuşuyor?	ask_whoisit
+- Sen kimsin ve benden ne istiyorsun?	ask_whoisit
+- kimsin?	ask_whoisit
+- kim o?	ask_whoisit
+- Senin kim olduğunu bilmek istiyorum	ask_whoisit
+- evet ama sen kimsin	ask_whoisit
+- bot musun?	ask_whoisit
+- Merhaba! adınız ne?	ask_whoisit
+- Güle güle	bye
+- iyi geceler	bye
+- görüşürüz	bye
+- gitmeliyim	bye
+- sonra görüşürüz	bye
+- şimdilik hoşçakal	bye
+- Hoşçakal	bye
+- hoşçakal seninle konuşmak güzeldi	bye
+- güle güle bot	bye
+- o zaman görüşürüz	bye
+- Hoşçakal!	bye
+- tamam o zaman bana yardım edemezsin	canthelp
+- lanet olsun yardım etmiyorsun	canthelp
+- bana yardım edemezsin	canthelp
+- ihtiyacım olan şeyde bana yardım edemezsin	canthelp
+- sanırım bana yardım edemezsin	canthelp
+- tamam sanırım bana yardım edemezsin	canthelp
+- istediğim bu değil	canthelp
+- tamam, ama bu bana yardımcı olmuyor	canthelp
+- bu hiçbir işe yaramıyor	canthelp
+- bu konuşma gerçekten yardımcı değil	canthelp
+- ne istediğime yardım edemezsin	canthelp
+- İstediğimi yapabileceğini sanmıyorum.	canthelp
+- bir şey buldun mu?	canthelp
+- ve kendine bot şirketi mi diyorsun? pff	canthelp
+- ve bu kadar	canthelp
+- başka hiçbir şey	canthelp
+- Satış elemanlarınızla konuşmak istiyorum.	contact_sales
+- Satış ile konuşmak istiyorum	contact_sales
+- Lütfen bana satış görüşmesi planlayın	contact_sales
+- Lütfen beni satıştan birisine bağlayın	contact_sales
+- Satış elemanlarınızla iletişim kurmak istiyorum	contact_sales
+- Satış ekibinizden biriyle konuşmak istiyorum	contact_sales
+- satış lütfen	contact_sales
+- Projemiz hakkında satış birimi ile konuşmak istiyorum	contact_sales
+- Platformunuz için bir teklif istiyorum	contact_sales
+- Ürününüz için bir abonelik almak istiyorum	contact_sales
+- Fiyatlandırmanız hakkında daha fazla bilgi edinmek istiyorum	contact_sales
+- Fiyatlandırma sisteminiz hakkında biriyle konuşmak istiyorum	contact_sales
+- bana iş modelinizi açıklayabilecek birini verin	contact_sales
+- satış ekibiyle görüşmek	contact_sales
+- Satış elemanlarınızla konuşmama izin verin	contact_sales
+- Satış ile görüşme yapmak istiyorum	contact_sales
+- Satış ekibiyle iletişim kurmak istiyorum	contact_sales
+- Satış elemanlarınızla konuşmak istiyorum	contact_sales
+- satış ekibinize ulaşmak istiyorum	contact_sales
+- Ayrıca satış görüşmesi yapmak istiyorum	contact_sales
+- Satış yapmak istiyorum	contact_sales
+- Satış ekibinizle görüşme yapmak istiyorum.	contact_sales
+- Satış ekibiyle görüşmek istiyorum	contact_sales
+- satış birimi arama isteği	contact_sales
+- Satışla konuşmak istiyorum	contact_sales
+- bir satış elemanı ile konuşmak istiyorum	contact_sales
+- Ama satış araması istedim	contact_sales
+- Satış elemanınla konuşmak istiyorum	contact_sales
+- kimliği ciftci_bot ile neler yapabileceğimi açıklayabilecek birisiyle konuşmak istiyor	contact_sales
+- birisi bana ciftci_bot platformu hakkında bilgi ile yardımcı olabilir mi	contact_sales
+- Platform hakkında bilgi istiyorum	contact_sales
+- fiyatlandırmanız nasıl çalışıyor?	contact_sales
+- Müşterilerin alabileceği farklı paketler var mı?	contact_sales
+- lütfen işletme paketiniz hakkında bilgi verin	contact_sales
+- nasıl destek alabileceğimi bilmem gerekiyor	contact_sales
+- ciftci_bot ile çalışmaya başladık ama şimdi desteğe ihtiyacımız var	contact_sales
+- ciftci_bot ile bir bot yaptık ama şimdi platforma ilgi duyuyoruz	contact_sales
+- satış elemanlarınızla konuşmama izin verin	contact_sales
+- Fiyatlandırmanız hakkında daha fazla bilgi edinmek istiyorum	contact_sales
+- Satışla ile irtibat kurmak istiyorum	contact_sales
+- satış birimine ulaşmama izin verin	contact_sales
+- beni satış departmanına bağla	contact_sales
+- satış departmanı lütfen	contact_sales
+- satış departmanı	contact_sales
+- beni satışa bağlar mısın	contact_sales
+- satış ekibinize bağlanmak istiyorum	contact_sales
+- satış ekibi bağlantısı	contact_sales
+- satış ekibine bağlayın	contact_sales
+- satış ekibinizle konuşmam gerekiyor	contact_sales
+- bir satış temsilcisiyle görüşebilir miyim	contact_sales
+- bana satış ekibini getir	contact_sales
+- satış iletişim	contact_sales
+- benim için satışla iletişim kurun	contact_sales
+- satış sorumlusu	contact_sales
+- satış ile görüşmek istiyorum	contact_sales
+- satış ile bir görüşmeye ihtiyacım var	contact_sales
+- satış görüşmesi isteği	contact_sales
+- istek çağrı	contact_sales
+- arama isteğine ihtiyacım var	contact_sales
+- aramama izin ver	contact_sales
+- aramak istiyorum	contact_sales
+- satış görüşmesi	contact_sales
+- satış ekibi ile talep çağrısı	contact_sales
+- satış ile iletişim çağrısı	contact_sales
+- satış ekibi	contact_sales
+- satış ekibi talebi	contact_sales
+- satışla iletişim	contact_sales
+- aramayı seçtim	contact_sales
+- telefon etmek	contact_sales
+- Bir demo planlanmış olsun istiyorum	contact_sales
+- Yarın öğleden sonra 3'te bir telefon alabilir miyim?	contact_sales
+- ciftci_bot Platformu hakkında daha fazla bilgi edinmek istiyorum	contact_sales
+- Sanırım satış elemanlarınızla konuşmak istiyorum	contact_sales
+- tamam satış elemanlarınızla konuşmak istiyorum	contact_sales
+- ciftci_bot platformunu satın almak istiyorum	contact_sales
+- satış ekibinize bağlanmak istiyorum	contact_sales
+- ciftci_bot platformunu satın almak istiyorum	contact_sales
+- satış görüşmesi	contact_sales
+- Satış ekibinize ulaşmak istiyorum lütfen	contact_sales
+- Tamam, hemen satış ekibiyle konuşmak istiyorum.	contact_sales
+- hm tamam o zaman satış dostumla konuşmak istiyorum	contact_sales
+- tamam satış	contact_sales
+- satış ile konuşmama izin ver	contact_sales
+- Satış elemanlarınızla konuşmama izin verin!	contact_sales
+- Senin nahoş satış elemanınla konuşabilir miyim?	contact_sales
+- satış ekibiyle konuşabilir miyim	contact_sales
+- Satış ekibinizle konuşmak istiyorum?	contact_sales
+- yok hayır	deny
+- kesinlikle hayır	deny
+- asla	deny
+- sanmıyorum	deny
+- korkarım ki hayır	deny
+- hayır efendim	deny
+- olmaz	deny
+- üzgünüm	deny
+- Hayır	deny
+- hayır ve tekrar hayır	deny
+- Gitme	deny
+- hayır teşekkürler	deny
+- reddet	deny
+- reddediyorum	deny
+- boşver	deny
+- Sana e-posta adresimi vermiyorum	deny
+- hayır kayıt olmak isteyip istemediğime henüz karar vermedim	deny
+- hayır kabul etmiyorum	deny
+- yok hayır!!!!	deny
+- hayır yanlış yaptın	deny
+- hayır yapamam	deny
+- Emin değilim	deny
+- pek sayılmaz	deny
+- sanırım hayır	deny
+- istemiyorum	deny
+- ikisinden de istemiyorum	deny
+- bunların hiç biri değil	deny
+- 100k	enter_data
+- 100k	enter_data
+- 240 bin / yıl	enter_data
+- 150.000 USD	enter_data
+- 150.000 ABD Doları / yıl	enter_data
+- yılda yaklaşık 500.000 dolar	enter_data
+- bir yıl için 250.000 euro ile planlıyoruz	enter_data
+- 4.000.000 INR hakkında	enter_data
+- 50.000.000 INR	enter_data
+- 60 milyon INR	enter_data
+- 4 milyon INR / yıl olduğunu düşünüyoruz	enter_data
+- 100 ila 200.000 arası	enter_data
+- 50.000 dolar	enter_data
+- Henüz emin değilim, şu anda 50 bin euro ile planlıyoruz.	enter_data
+- 75000-150000 euro	enter_data
+- bizim tahminimiz 10k	enter_data
+- maxmeier@firma.de	enter_data
+- bot-fan@bots.com	enter_data
+- maxmeier@firma.de	enter_data
+- bot-fan@bots.com	enter_data
+- e-postam email@ciftci_bot.com	enter_data
+- e-postam markjobs@ibm.com	enter_data
+- e-postam khardik.kmosu@bol.net.in	enter_data
+- iş postam mikemiller@sales.apple.com	enter_data
+- e-posta = stephanywhite@microsoft.com	enter_data
+- posta: julianfrank@hotmail.com	enter_data
+- santaklaus@googlemail.com	enter_data
+- saswatkarhar@rediffmail.com	enter_data
+- nerd@stanford.edu	enter_data
+- alexander.denker@tu-berlin.de	enter_data
+- sislawawa@india.com	enter_data
+- chengming@aliyun.com	enter_data
+- solomq122@qq.mail.com	enter_data
+- Satışlarımızı% 500 artırmak için bir satış botu inşa etmeyi planlıyoruz.	enter_data
+- gelirimizi% 100 artırmak için bir satış botu inşa etmeyi planlıyoruz.	enter_data
+- Seçilecek en iyi hayat sigortası konusunda potansiyel müşterilere danışmanlık yapan bir sigorta aracı.	enter_data
+- Çalışanlarımız için toplantı odaları rezervasyonu için bir konuşma asistanı ayarlıyoruz.	enter_data
+- foo@bar.com	enter_data
+- 10000000	enter_data
+- mrmop@mops.app	enter_data
+- 5 dolar	enter_data
+- E-postam linda@linda.linda	enter_data
+- İnsanlara en sevdikleri renklere göre sevimli hayvan resimleri gönderen bir bot yapmak istiyorum.	enter_data
+- Harika bir bot yapmak istiyorum	enter_data
+- benim emaylim yolo.de de yolo.	enter_data
+- adele@gmx.com	enter_data
+- bir trilyon dolar	enter_data
+- moabit@yoga.com	enter_data
+- 100000k	enter_data
+- 10000 dolar	enter_data
+- 400 trilyon	enter_data
+- philipp@superphilipp.philipp	enter_data
+- 5 milyon	enter_data
+- Bana sevimli hayvan resimleri göndermek için süper bir bot yapmak istiyorum	enter_data
+- 10000k	enter_data
+- Bir satış botu yapmak istiyorum	enter_data
+- 50 bin	enter_data
+- Bir bot yapmak istiyorum	enter_data
+- bezleri için bir chatbot - mopbot	enter_data
+- loretta@strawberry-ice.come, çilekli buz için departmanda çalıştığım için	enter_data
+- dondurma fabrikası şirkettir	enter_data
+- henüz emin değilim	enter_data
+- 2 euro	enter_data
+- Bir SSS botu oluşturmak istiyorum	enter_data
+- hello@hello.com	enter_data
+- Çok farklı botlar yapmak istiyorum	enter_data
+- bizde bir yok	enter_data
+- hi@ciftci_bot.com	enter_data
+- Bir sağlık sigortası botu yapmak istiyorum	enter_data
+- 5 euro	enter_data
+- bir trafo inşa etmek istiyorum	enter_data
+- klausimausi@apple.com	enter_data
+- ifuckrobots666@apple.com	enter_data
+- duyarlı bir robot	enter_data
+- bende hiç yok	enter_data
+- bir bot	enter_data
+- akela@philipp.com	enter_data
+- bir bot inşa etmek istiyorum	enter_data
+- oov	enter_data
+- Bütçem oov	enter_data
+- E-postam oov	enter_data
+- yılda oov	enter_data
+- şirketin adı oov	enter_data
+- Oov için çalışıyorum	enter_data
+- sağlık botu	enter_data
+- help@help.com	enter_data
+- sağlık botu yapmak istiyorum	enter_data
+- 200k	enter_data
+- test@test.com	enter_data
+- 2000k	enter_data
+- tüm botları inşa etmek istiyorum	enter_data
+- 20k	enter_data
+- bot yapmak istiyorum	enter_data
+- havalı bir bot	enter_data
+- bir bot	enter_data
+- philipp@thephilippcompany.com	enter_data
+- philipp bot yapmak istiyorum	enter_data
+- joey@koolmanconsulting.com	enter_data
+- kendim hakkında bir şey soran biri	enter_data
+- ciftci_bot technologies şirketinde baş inek	enter_data
+- myemail@gmail.com	enter_data
+- 123@skdv.fvsdj	enter_data
+- bende yok	enter_data
+- hiçbir fikrim yok	enter_data
+- Henüz bilmiyorum	enter_data
+- ulrikovitcheisenkleber@eisenkleberlimitedcokg.com	enter_data
+- eisenkleber sınırlı ortak kg	enter_data
+- ulrikovitch eisenkleber	enter_data
+- bir tane yok	enter_data
+- bir pizza botu	enter_data
+- operasyonlar	enter_data
+- hiçbiri hurdalardan çıkaracağım	enter_data
+- fikrim yok	enter_data
+- yaklaşık 200k	enter_data
+- benimle ilgili bir bot yapmak istiyorum	enter_data
+- bende yok	enter_data
+- bir sigorta botu yapmak istiyorum	enter_data
+- help@ciftci_bot.com e-postası	enter_data
+- tüm botları yapmak istiyorum	enter_data
+- 300 bin numara	enter_data
+- e-posta adresim kevin@yoloooz.de	enter_data
+- bir satış botu	enter_data
+- 200000000	enter_data
+- linda@mail.com	enter_data
+- Yok	enter_data
+- Bilmiyorum	enter_data
+- 123@gmail.com	enter_data
+- udo@udo.ai	enter_data
+- hey@kldpeffesfoken.oinwf	enter_data
+- Değerlendir ciftci_bot :-)	enter_data
+- Felaketin efendisi	enter_data
+- belki o zaman yerine alex+ciftci_botciftci_bot@ciftci_bot.com	enter_data
+- Bunun yerine alex+123@ciftci_bot.com adresini deneyebilir misiniz?	enter_data
+- linda@yoloyolo.de	enter_data
+- problem çözme	enter_data
+- çikolata botu	enter_data
+- iyiydi?	enter_data
+- elise	enter_data
+- elise@gmail.com	enter_data
+- bir müşteri hizmetleri destek sistemi	enter_data
+- beni her sabah rahatsız eden	enter_data
+- Patron benim	enter_data
+- 90k	enter_data
+- ciftci_bot bot	enter_data
+- linda@linda.com	enter_data
+- bir akela bot	enter_data
+- 1 milyon	enter_data
+- 2 milyon	enter_data
+- ali@nytimes.com	enter_data
+- bütçe yok	enter_data
+- kurşun üretimi	enter_data
+- 100000	enter_data
+- linda@ciftci_bot.ai	enter_data
+- yesplease@yes.com	enter_data
+- ÖLÇÜLEBİLİR MINDS	enter_data
+- 500k	enter_data
+- Bir buz küpü dağıtıcısı bot inşa etmek istiyorum	enter_data
+- 0	enter_data
+- harika bir tane	enter_data
+- beni terfi ettirecek biri	enter_data
+- konuşkan	enter_data
+- propella@daskapital.de	enter_data
+- schlabberjimmy@glibberglitter.edu	enter_data
+- Ben bir glibber ve parıltılı satıcıyım	enter_data
+- schnuffelknuddelbaerchen33@ciftci_bot.de	enter_data
+- tasarruf hesabımda yaklaşık 200 dolar var	enter_data
+- Yok	enter_data
+- 200 dolar	enter_data
+- Duygusal glibber veya parıltı yapmak istiyorum	enter_data
+- bigassnerd@ciftci_bot.com	enter_data
+- 60 sterlin gibi	enter_data
+- hiçbir şey değil	enter_data
+- tamedmouse@micerevolution.fr	enter_data
+- volodimir@ciftci_bot.com	enter_data
+- Bilmiyorum	enter_data
+- araba için sigorta seçmenize yardımcı olan bot;)	enter_data
+- junk@junk.com	enter_data
+- j@p.com	enter_data
+- ikisinden de sanmıyorum	enter_data
+- al@acme.org	enter_data
+- £ 50k	enter_data
+- bot insan kaynakları konusunda yardımcı olmalı	enter_data
+- none@none.co.uk	enter_data
+- 50	enter_data
+- benim	enter_data
+- 1 dolar	enter_data
+- juste@juste.com	enter_data
+- 1 avro	enter_data
+- sevimli shiba resimleri gönderen bir bot	enter_data
+- shiba@shiba.com	enter_data
+- tylerthemateman@clubmate.com	enter_data
+- Ben tekme eşek bot inşa etmek istiyorum	enter_data
+- 1 milyon büyük	enter_data
+- me@me.com	enter_data
+- herbert@gmail.com	enter_data
+- Herbert	enter_data
+- 10 m	enter_data
+- havalı bir çocuk	enter_data
+- bir dondurma botu	enter_data
+- 500 milyon	enter_data
+- yarım milyon	enter_data
+- büyük bir ol trafo	enter_data
+- büyük eski bot	enter_data
+- hi@elise.de	enter_data
+- ulle@gmx.de	enter_data
+- 5 sterlin	enter_data
+- me@you.de	enter_data
+- 120000	enter_data
+- akela@akela.com	enter_data
+- akela'nın şirketi	enter_data
+- bir milyar	enter_data
+- akela ile her zaman konuşabileceğim bir akela botu	enter_data
+- yaklaşık 10 k	enter_data
+- Patronumu etkilemek için harika bir bot istiyorum	enter_data
+- bunun gibi	enter_data
+- badass bot test cihazı	enter_data
+- terfi almak için bir bot	enter_data
+- 10	enter_data
+- ames@ciftci_bot.com	enter_data
+- valid_email@one.de	enter_data
+- valid@one.email	enter_data
+- işsiz	enter_data
+- bu beni terfi ettirecek	enter_data
+- Para harcadım	enter_data
+- 500000000	enter_data
+- Bir kurt botu	enter_data
+- bir kaplumbağa	enter_data
+- kaplumbağa satıyorum	enter_data
+- 123@akela.com	enter_data
+- Bir buz küpü bot	enter_data
+- jimmy nötron endüstrileri	enter_data
+- Tamam, email@email.com	enter_data
+- akelaistcool@schwabenländle.de	enter_data
+- spam bot	enter_data
+- senin gibi bot	enter_data
+- sağlık hizmeti	enter_data
+- meşgulken arkadaşlarımla konuşacak bir şey	enter_data
+- Merhaba	greet
+- Hey	greet
+- Merhaba bot	greet
+- Hey bot	greet
+- Günaydın	greet
+- tekrar merhaba	greet
+- Merhaba millet	greet
+- selam bayım	greet
+- selam	greet
+- Merhaba Pal!	greet
+- selamlar	greet
+- herkese merhaba	greet
+- Merhaba, orada kimse var mı	greet
+- merhaba robot	greet
+- Halo	greet
+- Hey	greet
+- Hey sen	greet
+- Hey bot!	greet
+- Merhaba arkadaş	greet
+- merhaba tatlı çocuk	greet
+- hiihihi	greet
+- merhaba tatlım	greet
+- naber	greet
+- N'aber bot	greet
+- haydi konuşalım	greet
+- hey konuşalım	greet
+- Hey dostum	greet
+- merhaba yine ben	greet
+- selam dostum	greet
+- iyi akşamlar	greet
+- Günaydın	greet
+- iyi geceler	greet
+- iyi sabahlar	greet
+- Tünaydın	greet
+- Bir insanla konuşmak istiyorum	human_handoff
+- gerçek bir insanla konuşmama izin verin lütfen	human_handoff
+- Şirketiniz için çalışan insanlar var mı?	human_handoff
+- Bir botla konuşmak istemiyorum	human_handoff
+- Bana gerçekten yardım edebilecek biriyle konuşabilir miyim?	human_handoff
+- Bir makineyle konuşmak istemiyorum	human_handoff
+- bir robotla konuşmak istemiyorum 	human_handoff
+- lütfen beni gerçek bir ciftci_bot çalışanına bağlayabilir misiniz?	human_handoff
+- can sıkıcı biriyle gerçek birisiyle konuşmak istiyorum	human_handoff
+- gerçek bir kişiyle konuşmak istiyorum	human_handoff
+- beni bir insanla temasa geçirebilir misin?	human_handoff
+- bir insanla konuşmama izin ver	human_handoff
+- kimliği gerçek bir ciftci_bot çalışanı ile konuşmak isterim	human_handoff
+- bir botla konuşmak istemiyorum	human_handoff
+- bir botla konuşmak aptalca	human_handoff
+- senden daha zeki olan biriyle konuşmak istiyorum	human_handoff
+- Lütfen bir insanla konuşabilir miyim?	human_handoff
+- gerçek bir ciftci_bot çalışanıyla konuşmayı tercih ederim	human_handoff
+- başka biriyle konuşmak istiyorum	human_handoff
+- gerçek bir insanla konuşmama izin ver	human_handoff
+- müşteri hizmetleri ile konuşmak istiyorum	human_handoff
+- müşteri hizmetlerinden birisi ile konuşmak istiyorum	human_handoff
+- beni müşteri hizmetleri ekibine iletir misin? 	human_handoff
+- gerçek bir insanla konuşmak istiyorum	human_handoff
+- ciftci_bot adresindeki birisiyle konuşmak istiyorum	human_handoff
+- bir müdürle konuşmak istiyorum	human_handoff
+- Kurucularla konuşmak istiyorum	human_handoff
+- Evet	affirm
+- eminim	affirm
+- tamam	affirm
+- güzel	affirm
+- evet, teşekkür ederim	affirm
+- Eminim, yapacağım!	affirm
+- Oh harika!	affirm
+- Kabul ediyorum	affirm
+- Tamam kabul ediyorum	affirm
+- Fikrimi değiştirdim. Kabul etmek istiyorum	affirm
+- tamam iyi	affirm
+- Peki	affirm
+- yapacağım!	affirm
+- OKI Doki	affirm
+- Evet lütfen	affirm
+- şüphesiz kesinlikle evet	affirm
+- mükemmel	affirm
+- Tabi ki	affirm
+- kesinlikle	affirm
+- Ah tamam	affirm
+- hm, isterdim	affirm
+- Evet kabul ediyorum	affirm
+- inanılmaz!	affirm
+- ne güzel!	affirm
+- evet lütfen kabul et	affirm
+- harika	affirm
+- Vaay havalı	affirm
+- iyi	affirm
+- Pizza istiyorum	out_of_scope
+- lütfen dondurmama yardım edin	out_of_scope
+- hayır bekle geri dön ben damlayan bir dondurma istiyorum ama onu yakalayan bir koni daha sonra dondurma içebilirsiniz	out_of_scope
+- damlamayan bir dondurma istiyorum	out_of_scope
+- Hey büyük anne, kulağına fısıldamasına izin ver.	out_of_scope
+- Birisi polisi arar sanırım bot öldü	out_of_scope
+- bana bir tavuğun resmini göster	out_of_scope
+- ikisi de	out_of_scope
+- Fransız mutfağı istiyorum	out_of_scope
+- Açım	out_of_scope
+- restoranlar	out_of_scope
+- restoran	out_of_scope
+- sen kaybeden bir lmao'sun	out_of_scope
+- Bir glutensiz restoran gösterilebilir mi	out_of_scope
+- umrumda değil !!!!	out_of_scope
+- nasılsın umrumda değil	out_of_scope
+- tekrar?	out_of_scope
+- oh bekle sana iş e-posta adresimi verdim değiştirebilir miyim?	out_of_scope
+- dayan, bulmama izin ver	out_of_scope
+- kes şunu, umrumda değil !!!	out_of_scope
+- Gerçekten mi? çok mu dokunaklısın?	out_of_scope
+- nasıl olur?	out_of_scope
+- Fikrimi değiştirdim	out_of_scope
+- ne?	out_of_scope
+- seni kırdım mı	out_of_scope
+- Şirketimin adını söylemek istemiyorum	out_of_scope
+- bu bağlantı çalışmıyor!	out_of_scope
+- sende zaten var	out_of_scope
+- bu gerçekten sinir bozucu bir deneyim	out_of_scope
+- durmak yok	out_of_scope
+- Fransız restoranı istiyorum	out_of_scope
+- bok bot	out_of_scope
+- benimle evlenmek istiyor musun?	out_of_scope
+- Bana yiyecek ver	out_of_scope
+- yiyecek istiyorum	out_of_scope
+- udo, seninle evlenmek istiyorum	out_of_scope
+- Parti yapmak istiyorum	out_of_scope
+- Seni sevdim	out_of_scope
+- Pizza istiyorum	out_of_scope
+- Pizza istiyorum!!	out_of_scope
+- aptal bot	out_of_scope
+- yemek istiyorum	out_of_scope
+- sen aptal bir botsun	out_of_scope
+- senden nefret ediyorum	out_of_scope
+- Önce sana sorular sorabilir miyim?	out_of_scope
+- Kırık robot parçalarıyla dolu bir çorak arazi mi?	out_of_scope
+- isteğinizle ilgilenemiyorum	out_of_scope
+- vejeteryan mısın?	out_of_scope
+- e-postamı kim cevaplayacak?	out_of_scope
+- Vakum robotu satıyor musunuz?	out_of_scope
+- Torunum için bir oda satın almak istiyorum.	out_of_scope
+- ve telefona tavuk sesleri ekleme	out_of_scope
+- barbara hala seninle evli mi	out_of_scope
+- Eşin bu haftasonu ne yapıyor?	out_of_scope
+- Çocuklar nasıl	out_of_scope
+- oldukça sıkıcısın	out_of_scope
+- kişisel veya iş?	out_of_scope
+- ciftci_bot Core ve NLU kullanıyor musunuz?	out_of_scope
+- bana komik bir şeyler söyle	out_of_scope
+- başka?	out_of_scope
+- ciftci_bot'taki mühendisler kimler?	out_of_scope
+- Onlar kim?	out_of_scope
+- konuşmaya devam edebilir miyiz?	out_of_scope
+- Benimle konuş	out_of_scope
+- En sevdiğin robot kim?	out_of_scope
+- evcilleştirilmiş bir fare önümüzdeki birkaç gün içinde kapınıza gelecek	out_of_scope
+- Dişlerinin arasında taşıdığı kırmızı güllerden anlarsın	out_of_scope
+- senin için bir fare evcilleştireceğim	out_of_scope
+- Bülten sadece spam değil mi?	out_of_scope
+- geri dön	out_of_scope
+- bana doktora yardım eder misin?	out_of_scope
+- üzgünüm, tekrar silemiyorum	out_of_scope
+- ve REST API'niz çalışmıyor	out_of_scope
+- sana söylemiştim	out_of_scope
+- senden daha iyi	out_of_scope
+- aman tanrım, bir daha olmaz!	out_of_scope
+- sen bir kaçıksın!	out_of_scope
+- lol	out_of_scope
+- neden buna ihtiyacın var?	out_of_scope
+- bu seni ilgilendiren şey mi?	out_of_scope
+- doktora yardım eder misin?	out_of_scope
+- hemen hayalimde olan en havalı bot için yardıma ihtiyacım var	out_of_scope
+- Dokümanların için bana yardım edebilir misin?	out_of_scope
+- bir botun nasıl yapıldığını söyler misin?	out_of_scope
+- Ortak, sadece deneyin	out_of_scope
+- hey, birkaç gün önce seninle temasa geçtim ama cevap alamadım, herhangi bir haber var mı?	out_of_scope
+- lütfen acele edin, botu teslim etmek için iki haftada son teslim tarihim var	out_of_scope
+- sinir bozucusun	out_of_scope
+- Kabul etmek zorunda mıyım?	out_of_scope
+- ciftci_bot gerçekten akıllı mı?	out_of_scope
+- bülten aboneliğe değer mi?	out_of_scope
+- çok yazık	out_of_scope
+- Hayatımda senden daha fazla istiyorum!	out_of_scope
+- senden daha iyi olanı var mı	out_of_scope
+- iğrençsin	out_of_scope
+- botlar kötü	out_of_scope
+- botları sevmiyorum	out_of_scope
+- telefon numaran var mı?	out_of_scope
+- nerede yaşıyorsun?	out_of_scope
+- Akela'nın kedileri nasıl?	out_of_scope
+- ama sadece şunu söyledim :(	out_of_scope
+- Neden cevap vermiyorsun?	out_of_scope
+- Ama sen ingiliz bir sitesin :(	out_of_scope
+- bot yapmama yardım eder misin?	out_of_scope
+- Bültene kaydolmak istiyorum.	signup_newsletter
+- Haber bülteni için kaydol	signup_newsletter
+- Kaydol	signup_newsletter
+- beni bültene ekle	signup_newsletter
+- bülten	signup_newsletter
+- NL'ye kaydol	signup_newsletter
+- haber bültenine gidelim	signup_newsletter
+- haber bülteni 	signup_newsletter
+- bültene kaydolmak istiyorum	signup_newsletter
+- ciftci_bot'tan en son haberleri alın	signup_newsletter
+- bültene kaydet beni - e-postam yesplease@ciftci_bot.ai	signup_newsletter
+- bülten, işte e-postam: sisi@ciftci_bot.com	signup_newsletter
+- bülten - e-postam lol@ciftci_bot.com	signup_newsletter
+- ciftci_bot bültenine abone olun	signup_newsletter
+- abone ol	signup_newsletter
+- Ben de abone olmak istiyorum	signup_newsletter
+- kaydolmak istiyorum	signup_newsletter
+- haber bülteni lütfen	signup_newsletter
+- beni abone olarak ekle	signup_newsletter
+- beni abonelik listesine ekle	signup_newsletter
+- bülten e-postam lütfen linda@yolo.de	signup_newsletter
+- nl'nizi almak istiyorum	signup_newsletter
+- bültene abone olmak istiyorum	signup_newsletter
+- abonelik bülteni	signup_newsletter
+- Bülten Aboneliği	signup_newsletter
+- haber bültenini bana ver	signup_newsletter
+- bültene ihtiyacım var	signup_newsletter
+- bundan sonra haber bültenini alabilir miyim	signup_newsletter
+- Haber bültenini almak isterim	signup_newsletter
+- bundan sonra haber bültenini almak istiyorum	signup_newsletter
+- bülten almak istiyorum	signup_newsletter
+- haber bültenini özlüyorum	signup_newsletter
+- haber bültenini almayı tercih ederim	signup_newsletter
+- bültene abone olun	signup_newsletter
+- lütfen beni bülteninize abone edin	signup_newsletter
+- ciftci_bot bültenini almak isterim	signup_newsletter
+- beni bu bültene kaydettirin	signup_newsletter
+- beni ciftci_bot bültenine kaydedin	signup_newsletter
+- bültene kaydolmak istiyorum	signup_newsletter
+- haber bülteni kayıt işlemlerini yapalım	signup_newsletter
+- bülten kaydı	signup_newsletter
+- bültene beni kaydedin	signup_newsletter
+- lütfen bültene kaydolun	signup_newsletter
+- beni bülten listesine ekle	signup_newsletter
+- bülten listesinde olmalıyım	signup_newsletter
+- Bülten e-postalarını almak istiyorum.	signup_newsletter
+- Beni bültene kaydedebilir misiniz	signup_newsletter
+- bülten listesine katılmak istiyorum	signup_newsletter
+- bültene kaydolmayı deneyelim	signup_newsletter
+- haber bülteni kaydını deneyelim	signup_newsletter
+- şimdi bültene üye olmak istiyorum	signup_newsletter
+- alan@mail.com adresini bülten listesine ekleyebilir misiniz?	signup_newsletter
+- Ben bültende olmak istiyorum - E-postam alex@mail.com	signup_newsletter
+- nl için kaydolmak istiyorum	signup_newsletter
+- example@ciftci_bot.com bültenine abone olun	signup_newsletter
+- hi@ciftci_bot.com bültenine abone olun	signup_newsletter
+- bültene abone olun	signup_newsletter
+- lütfen beni alex@example.cz bültenine abone edin	signup_newsletter
+- e-postamı alex@mail.mail’e bültene abone edin	signup_newsletter
+- ayrıca bültene kaydolmak istiyorum	signup_newsletter
+- senden e-posta alabilir miyim	signup_newsletter
+- gazetenizi istiyorum	signup_newsletter
+- abone olmak için	signup_newsletter
+- Bir bültene abone olmak isterim	signup_newsletter
+- aslında haber bültenini öğrenmek istiyorum	signup_newsletter
+- bülteninize abone olmak istiyorum	signup_newsletter
+- abone olmak istiyorum	signup_newsletter
+- Çok teşekkür ederim	thank
+- Teşekkürler bot	thank
+- Bunun için teşekkürler	thank
+- şerefe	thank
+- tamam teşekkürler!	thank
+- Mükemmel teşekkürler	thank
+- yardım için teşekkürler	thank
+- çok teşekkürler	thank
+- şaşırtıcı, teşekkürler	thank
+- harika, teşekkürler	thank
+- Oh, teşekkürler	thank
+- Güzel. Teşekkürler	thank
+- teşekkürler bu harika bir haber	thank
+- teşekkür ederim	thank
+- çok teşekkürler	thank
+- Teşekkürler	thank
+- Forum bağlantısı için teşekkürler, ben kontrol edeceğim	thank
+- Teşekkürler!	thank
+- San Francisco	location
+- Montreal	location
+- New York	location
+- Washington	location
+- Berlin	location
+- Zurich	location
+- Hamburg	location
+- Frankfurt	location
+- Munich	location
+- Madrid	location
+- Cologne	location
+- Düsseldorf	location
+- Barcelona	location
+- Vienna	location
+- Warsaw	location
+- Paris	location
+- Rome	location
+- London	location
+- Prague	location
+- Sidney	location
+- Delhi	location
+- Mumbai	location
+- Tokyo	location
+- Rio de Janeiro	location
+- Beijing	location
+- Guangzhou	location
+- Shanghai	location
+- Chongqing	location
+- Hong Kong	location
+- China	location
+- India	location
+- US	location
+- USA	location
+- Germany	location
+- United States	location
+- UK	location
+- England	location
+- Brazil	location
+- France	location
+- Poland	location
+- Italy	location
+- Spain	location
+- Europe	location
+- Canada	location
+- Ukraine	location
